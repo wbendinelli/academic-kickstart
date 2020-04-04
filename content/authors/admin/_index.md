@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-William Bendinelli is a Senior Data Scientist at Raízen. His research interests include include the applications of machine learning models in agriculture and aviation industry with economic focus. Visiting researcher at Office for Futures and Options Research (OFOR-UIUC) and Center for Transportation Economics (CTE-ITA). He received honorable mention in the Nineteenth Excellence Award in Economics (CORECON-SP) and the William Grossman Award in Excellence in Air Transport Research (ITA).
+William Bendinelli is a Senior Data Scientist at Raízen. His research interests include the applications of machine learning models in agriculture and aviation industry with economic focus. Visiting researcher at Office for Futures and Options Research (OFOR-UIUC) and Center for Transportation Economics (CTE-ITA). He received honorable mention in the Nineteenth Excellence Award in Economics (CORECON-SP) and the William Grossman Award in Excellence in Air Transport Research (ITA).
