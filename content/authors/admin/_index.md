@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: William Bendinelli
 
 # Username (this should match the folder name)
 authors:
-- admin
+- wbendinelli
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Raízen
+  url: "https://www.raizen.com.br/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
